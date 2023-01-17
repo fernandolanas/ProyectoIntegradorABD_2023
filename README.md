@@ -4,5 +4,4 @@ En este repositorio en archivo.zip se encuentra el codigo para levantar los dock
 Es recomendable abrir la carpeta dentro del contenedor con visual studio code
 este permite la visualizacion de todos los archivos.
 
-De igual manera contiene un archivo .rar con toda la maquina virtual utilizada.
-Es recomendable utilizar virtual box para abrir el disco.
+.
